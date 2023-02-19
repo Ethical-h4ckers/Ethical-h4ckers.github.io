@@ -205,7 +205,8 @@ body {
     left: 275px;
 }*/
 .main_content {
-  background: #129cff;
+  background: #549DA0;
+/*  background: #129cff;*/
   padding-bottom: 10px;
   padding-left: 30px;
   text-align: center;
@@ -260,7 +261,7 @@ margin-left: 40px;
   color:white;
 }
 .h-h-list{
-  background: #000000;
+  background: #284b63;
   padding-top: 5px;
   padding-bottom: 5px;
   position: relative;
@@ -270,15 +271,16 @@ margin-left: 40px;
 }
 
 .h-list {
-  color: white;
-  background: #1f1f1f;
+  color: #ffffff;
+  background:#353535;
+/*  background: #1f1f1f;*/
   position: relative;
   padding-top: 20px;
   padding-left: 50px;
   
 }
 .h-list #myUl a{
-  color: balck;
+  color: white;
 }
 .pre-requests{
 	color:white;
